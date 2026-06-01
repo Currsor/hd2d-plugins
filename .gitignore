@@ -2,3 +2,7 @@ Puerts/ThirdParty/v8*/
 Binaries/
 Intermediate/
 .DS_Store
+# 编译产物
+*/Binaries/
+*/Intermediate/
+Puerts/Source/*/obj/
