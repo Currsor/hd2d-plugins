@@ -1,3 +1,4 @@
 ThirdParty/v8*/
 Binaries/
 Intermediate/
+.DS_Store
